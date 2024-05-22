@@ -60,5 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or inquiries, please contact [Your Name] at [your.email@example.com].
 
 ---
-
-**Note**: Replace placeholders like `[Your Name]` and `[your.email@example.com]` with your actual details before publishing the README file.
